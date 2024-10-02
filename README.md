@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**gustavderdrache/gustavderdrache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Projects I've worked on:
 
-Here are some ideas to get you started:
+* [`forumone/terraform-ecs-module`](https://github.com/forumone/terraform-ecs-module): A module for managing AWS ECS with a self-service configuration file for easy contributions by developers.
+* [`forumone/artifact-push-buildkite-plugin`](https://github.com/forumone/artifact-push-buildkite-plugin): [Buildkite plugin](https://buildkite.com/docs/plugins) to push build artifacts to a remote repository.
+* [`USEPA/webcms`](https://github.com/USEPA/webcms): AWS ECS containerized environment to run epa.gov's Drupal CMS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tools I've used:
+
+* Rust
+* Bash
+* JavaScript/TypeScript/Node.js
+* AWS CLI
+* AWS SDKs
+* Terraform
